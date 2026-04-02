@@ -1,0 +1,12 @@
+numpy
+pandas
+matplotlib
+scipy
+scikit-learn
+xgboost
+uproot
+iminuit
+numba-stats
+numba
+vector
+sweights
