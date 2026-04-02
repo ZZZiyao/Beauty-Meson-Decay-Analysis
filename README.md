@@ -41,15 +41,7 @@ pip install -r requirements.txt
 
 Open and run `analysis.ipynb` from top to bottom. All intermediate results (plots, fit parameters, sWeights) are produced inline.
 
-## Project Structure
+## Report
 
-```
-experiment/
-├── analysis.ipynb       # Main analysis notebook
-├── data/
-│   ├── info.md        # Variable descriptions
-│   ├── data.root      # Collision data (not tracked)
-│   └── mc.root        # Signal MC (not tracked)
-├── requirements.txt
-└── README.md
-```
+The full analysis write-up is available in [`Beauty_Meson_Decay_Analysis.pdf`](Beauty_Meson_Decay_Analysis.pdf).
+
